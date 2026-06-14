@@ -217,6 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Raw data files (large, not committed)
-data/raw/*.xlsx
-data/raw/*.csv
+# Raw data files received from client (large, not committed)
+data/raw/food_quotes.xlsx
+data/raw/food_requests.xlsx
